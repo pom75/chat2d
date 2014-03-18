@@ -1,0 +1,1 @@
+﻿package  {	/*		Class Menu qui contient toutes les interactions optionelle avec		l'interface client	*/	public class Menu {		public function Menu() {			// constructor code		}	}	}
